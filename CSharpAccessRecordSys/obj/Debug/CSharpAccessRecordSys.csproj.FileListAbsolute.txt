@@ -1,0 +1,12 @@
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpAccessRecordSys\CSharpAccessRecordSys\bin\Debug\CSharpAccessRecordSys.exe.config
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpAccessRecordSys\CSharpAccessRecordSys\obj\Debug\CSharpAccessRecordSys.csprojResolveAssemblyReference.cache
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpAccessRecordSys\CSharpAccessRecordSys\obj\Debug\CSharpAccessRecordSys.Form1.resources
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpAccessRecordSys\CSharpAccessRecordSys\obj\Debug\CSharpAccessRecordSys.Properties.Resources.resources
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpAccessRecordSys\CSharpAccessRecordSys\obj\Debug\CSharpAccessRecordSys.csproj.GenerateResource.Cache
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpAccessRecordSys\CSharpAccessRecordSys\bin\Debug\CSharpAccessRecordSys.exe
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpAccessRecordSys\CSharpAccessRecordSys\bin\Debug\CSharpAccessRecordSys.pdb
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpAccessRecordSys\CSharpAccessRecordSys\obj\Debug\CSharpAccessRecordSys.exe
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpAccessRecordSys\CSharpAccessRecordSys\obj\Debug\CSharpAccessRecordSys.pdb
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpAccessRecordSys\CSharpAccessRecordSys\obj\Debug\CSharpAccessRecordSys.Form2.resources
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpAccessRecordSys\CSharpAccessRecordSys\obj\Debug\CSharpAccessRecordSys.Form3.resources
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpAccessRecordSys\CSharpAccessRecordSys\obj\Debug\CSharpAccessRecordSys.Form4.resources
